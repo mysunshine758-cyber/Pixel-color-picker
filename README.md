@@ -17,8 +17,8 @@ Pick the exact visible HEX color from any normal website, image, gradient, illus
 
 ## Install in Chrome or Brave
 
-1. Download `Pixel-Color-Picker-v1.1.5-final.zip` from the GitHub Releases page.
-2. Extract the ZIP to a folder. Do not select the ZIP itself.
+1. Download the `Pixel-Color-Picker-v1.1.6.zip` package from the project's available distribution files.
+2. Extract the v1.1.6 ZIP to a folder. The extracted folder should contain `manifest.json` directly; do not select the ZIP itself.
 3. Open `chrome://extensions` in Chrome or `brave://extensions` in Brave.
 4. Enable **Developer mode**.
 5. Choose **Load unpacked**.
