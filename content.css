@@ -1,0 +1,6 @@
+#pixel-picker-overlay { position: fixed; z-index: 2147483647; pointer-events: none; width: 176px; padding: 10px; border-radius: 10px; background: #17191d; color: #f7f8fa; box-shadow: 0 8px 24px #0008; font: 12px/1.2 system-ui, sans-serif; transform: translate(14px, 14px); }
+#pixel-picker-overlay .picker-row { display: flex; align-items: center; gap: 8px; }
+#pixel-picker-swatch { width: 24px; height: 24px; flex: none; border-radius: 6px; border: 1px solid #ffffff55; background: #888; }
+#pixel-picker-hex { font: 700 20px/1 ui-monospace, SFMono-Regular, Consolas, monospace; letter-spacing: .02em; }
+#pixel-picker-hint { margin-top: 7px; color: #aeb4bf; font-size: 10px; }
+#pixel-picker-crosshair { position: fixed; z-index: 2147483647; pointer-events: none; width: 12px; height: 12px; border: 1px solid white; border-radius: 50%; box-shadow: 0 0 0 1px #000; transform: translate(-6px, -6px); }
